@@ -1,0 +1,10 @@
+{
+  "name": "yarnModule",
+  "version": "1.0.0",
+  "description": "yarn package with jQuery",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
